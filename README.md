@@ -7,12 +7,12 @@ cd domain-diff
 python3 domain-diff.py infile_1.txt infile_2.txt  
 
 # Output
-Unique values in list1.txt:  
+Unique values in infile_1.txt:  
 corp.aol.com  
 yahoo.com  
   
   
-Unique values in list2.txt:  
+Unique values in infile_2.txt:  
 vpn.aol.com  
 netscape.com  
 www.netscape.com  
