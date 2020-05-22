@@ -1,6 +1,7 @@
 # domain-diff
-Simple tool to compare two lists of (sub)domains and show both the unique items in each list, plus overlap.
-
+Simple tool to compare two lists of (sub)domains and show both the unique items in each list, plus overlap.  
+  
+  
 # Usage
 git clone https://github.com/c0ldbr3w/domain-diff  
 cd domain-diff  
